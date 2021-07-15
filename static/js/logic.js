@@ -17,7 +17,7 @@ function buildUrl(){
     
     // API URL of Significant Earthquakes for the past 7 Days
     //------------------------------------------
-    return "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson";
+    return "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson";
 } 
 
 // Function to get the api from https://earthquake.usgs.gov/
