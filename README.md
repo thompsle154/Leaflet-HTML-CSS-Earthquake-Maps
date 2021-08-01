@@ -11,5 +11,5 @@ Outdoor Map
 Satellite Map
 ![image](https://user-images.githubusercontent.com/78496051/127757122-e3b0c936-81f9-4c4e-af18-49046b7749f3.png)
 Hover Text
-![image](https://user-images.githubusercontent.com/78496051/127757139-77cb31ec-3ad8-4923-9241-5f0574df2c8b.png
+![image](https://user-images.githubusercontent.com/78496051/127757139-77cb31ec-3ad8-4923-9241-5f0574df2c8b.png)
 
